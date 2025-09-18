@@ -26,9 +26,9 @@ This project predicts **customer churn** (whether a customer will leave or not) 
 
 customer-churn-prediction/
 
-├── data/ # Dataset
+├── WA_Fn-UseC_-Telco-Customer-Churn.csv/ # Dataset
 
-├── notebooks/ # Jupyter Notebooks (EDA + Modeling)
+├── Churn-Rate-Analysis.ipynb/ # Jupyter Notebooks (EDA + Modeling)
 
 ├── app.py                # Streamlit app
 
