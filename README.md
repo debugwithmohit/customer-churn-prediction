@@ -74,7 +74,7 @@ pip install -r requirements.txt
 streamlit run app.py
 
 📦 Deployment
-
+https://customer-churn-prediction-fpvqkcxdvehjabu6zfvxfe.streamlit.app/
 The Streamlit App allows users to enter customer details (tenure, monthly charges, contract type, etc.) and predicts churn probability in real-time.
 
 👤 Author
