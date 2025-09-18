@@ -25,13 +25,21 @@ This project predicts **customer churn** (whether a customer will leave or not) 
 ## 📂 Repository Structure
 
 customer-churn-prediction/
-├── data/                 # Dataset 
-├── notebooks/            # Jupyter Notebooks (EDA + Modeling)
+
+├── data/ # Dataset
+
+├── notebooks/ # Jupyter Notebooks (EDA + Modeling)
+
 ├── app.py                # Streamlit app
+
 ├── rf_churn_model_compressed.pkl  # Trained Random Forest model
+
 ├── transformer_compressed.pkl     # Preprocessing transformer (OHE + scaling)
+
 ├── requirements.txt      # Dependencies
+
 └── README.md             # Project documentation
+
 
 ---
 
